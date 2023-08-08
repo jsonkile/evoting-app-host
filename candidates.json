@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Bola",
+    "lastName": "Tinubu",
+    "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/election-d2d38.appspot.com/o/images-2.jpeg?alt=media&token=0d66cb05-17fc-4a73-b150-670bb580be21",
+    "party": "APC",
+    "briefSummary": "Chief Bola Ahmed Adekunle Tinubu GCFR (born 29 March 1952) is a Nigerian politician and business man. He was the governor of Lagos State from 1999 to 2007"
+  },
+  {
+    "firstName": "Atiku",
+    "lastName": "Abubakar",
+    "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/election-d2d38.appspot.com/o/images.jpeg?alt=media&token=b5f79176-d8c8-4ebc-bb33-dbe6f944689d",
+    "party": "PDP",
+    "briefSummary": "Atiku Abubakar GCON"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Obi",
+    "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/election-d2d38.appspot.com/o/Peter-Obi-and-Kwankwaso-e1680730961510.jpg?alt=media&token=47ea28ca-219d-4e1b-afa5-aba889807eff",
+    "party": "LP",
+    "briefSummary": "Peter Gregory Onwubuasi Obi CON (born 19 July 1961) is a Nigerian businessman politician and philanthropist , who served as governor of Anambra from March to November 2006, February to May 2007, and June 2007 to March 2014. In May 2022, he became the Labour Party candidate for President of Nigeria in the 2023 presidential election, after defecting from the Peoples Democratic Party. Born in Onitsha in 1961, Obi graduated from the University of Nigeria in 1984. Afterwards, he entered business and banking, eventually holding several executive positions in several banks. Obi contested for governor in 2003 as a member of the All Progressives Grand Alliance, but Chris Ngige was declared winner of the election. In 2006, the election of Chris Ngige was nullified and Obi was declared winner of the 2003 election, and he assumed office in March 2006. Shortly, he was impeached in November the same year by the Anambra State House of Assembly, led by Hon. Mike Balonwu. However, his impeachment was overturned and he returned to office in February 2007. Obi was removed after the 2007 Anambra State gubernatorial election, but the judiciary again intervened by ruling that he should be allowed to complete a full four-year term. In 2010, he was re-elected to a second term."
+  },
+  {
+    "firstName": "Rabiu",
+    "lastName": "Kwankwaso",
+    "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/election-d2d38.appspot.com/o/Kwankwaso.jpg?alt=media&token=326e5aa7-fb3e-4139-a59c-a5c8f88db22e",
+    "party": "NNPP",
+    "briefSummary": "Mohammed Rabi'u Musa Kwankwaso (born 21 October 1956) is a Nigerian politician who served as governor of Kano state from 1999 to 2003 and from 2011 to 2015. After he lost his re-election in 2003, he was appointed the first Minister of Defence of the Fourth Republic with no prior military background from 2003 to 2007, under the administration of President Olusegun Obasanjo.He was later elected to the Senate in 2015, serving one term under the platform of the All Progressives Congress (APC) representing Kano Central Senatorial District. He is currently the national leader of the New Nigeria Peoples Party. Kwankwaso enjoys widespread support in Kano and north-western Nigeria"
+  }
+]
